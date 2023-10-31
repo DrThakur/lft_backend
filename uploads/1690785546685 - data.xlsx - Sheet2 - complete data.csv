@@ -1,0 +1,7 @@
+Asset Type,Financed By,Procured Under,Location,System,Asset Code,Service Tag No.,Make,Model,CPU,CPU Generation,CPU Version,CPU Speed,RAM,Hard Disk,Hard Disk Type,Issued To,Employee Code,Employee Name,Intern Code,Intern Name,Consultant Code,Consultant Name,Project Name,Project Owner,Isolated To,Isolated Owner
+Lease New Assets,HP Lease,SCH#19,Bangalore,Desktop,LFTBD-019,WOX5CZ1,Dell,Dell OptiPlex 7080,Core i7,10th Gen,10700,2.90GHz,16GB,1TB NVMe / 1TB HDD,HDD/SSD,Employee,LFTGE-5800,Arjun,,,,,,,,
+Lease New Assets,HP Lease,SCH#20,Bangalore,Desktop,LFTBD-020,WOX5CZ2,Dell,Dell OptiPlex 5060,Core i5,8th Gen,8500,3.00GHz,8GB,1TB,HDD,Intern,,,LFTGI-5801,Shashwat,,,,,,
+Lease New Assets,HP Lease,SCH#21,Bangalore,Desktop,LFTBD-021,WOX5CZ3,Dell,Dell OptiPlex 5050,Core i5,6th Gen,6500,3.20GHz,8GB,1TB,HDD,Consultant,,,,,LFTGC-5802,Shrirup,,,,
+Lease New Assets,HP Lease,SCH#22,Gurgaon,Desktop,LFTBD-022,WOX5CZ4,Dell,Dell OptiPlex 7080,Core i7,10th Gen,10700,2.90GHz,16GB,1TB NVMe / 1TB HDD,HDD/SSD,Project,,,,,,,Verification,Sachin Sharma,,
+Lease New Assets,HP Lease,SCH#23,Gurgaon,Desktop,LFTBD-023,WOX5CZ5,Dell,Dell OptiPlex 5060,Core i5,8th Gen,8500,3.00GHz,8GB,1TB,HDD,Isolated,,,,,,,,,FPGA,Fuzzail Hussain
+Lease New Assets,HP Lease,SCH#24,Gurgaon,Desktop,LFTBD-024,WOX5CZ6,Dell,Dell OptiPlex 5050,Core i5,6th Gen,6500,3.20GHz,8GB,1TB,HDD,Stock,,,,,,,,,,

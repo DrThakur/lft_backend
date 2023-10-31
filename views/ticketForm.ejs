@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ticket Form</title>
+  </head>
+  <body>
+    <h1>Ticket Form</h1>
+    <form method="POST" action="/submit-ticket">
+      <label for="ticketType">Ticket Type:</label>
+      <select name="ticketType" id="ticketType">
+        <option value="">-- Select Request Type --</option>
+        <option value="Request Something">Request Something</option>
+        <option value="Report an Issue">Report an Issue</option>
+      </select>
+      <br />
+
+      <% if (ticketType === "Request Something") { %>
+      <label for="assetRequiredFor">Asset Required For:</label>
+      <select name="assetRequiredFor" id="assetRequiredFor">
+        <option value="Self">Self</option>
+        <option value="Project">Project</option>
+      </select>
+      <br />
+
+      <label for="requestFor">Request For:</label>
+      <select name="requestFor" id="requestFor">
+        <option value="Laptop">Laptop</option>
+        <option value="Desktop">Desktop</option>
+        <option value="Accessories">Accessories</option>
+        <option value="Consumables">Consumables</option>
+        <option value="Licence">Licence</option>
+        <option value="Other">Other</option>
+      </select>
+      <br />
+
+      <% if (requestFor === "Laptop" || requestFor === "Desktop" || requestFor
+      === "Accessories" || requestFor === "Consumables" || requestFor ===
+      "Licence" || requestFor === "Other") { %>
+      <label for="requirementDetails">Requirement Details:</label>
+      <input
+        type="text"
+        name="requirementDetails"
+        id="requirementDetails"
+        required
+      />
+      <br />
+      <% } %>
+
+      <label for="approvedByManager">Approved by Manager:</label>
+      <select name="approvedByManager" id="approvedByManager">
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
+      <br />
+
+      <% if (approvedByManager === "Yes") { %>
+      <label for="managerName">Manager Name:</label>
+      <input type="text" name="managerName" id="managerName" required />
+      <br />
+      <% } %> <% } else if (ticketType === "Report an Issue") { %>
+      <label for="issueType">Issue Type:</label>
+      <select name="issueType" id="issueType">
+        <option value="Software Related">Software Related</option>
+        <option value="Network Related">Network Related</option>
+        <option value="LFT Resource">LFT Resource</option>
+      </select>
+      <br />
+
+      <% if (issueType === "Software Related" || issueType === "Network Related"
+      || issueType === "LFT Resource") { %>
+      <label for="issueDescription">Issue Description:</label>
+      <input
+        type="text"
+        name="issueDescription"
+        id="issueDescription"
+        required
+      />
+      <br />
+      <% } %> <% } %>
+
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>

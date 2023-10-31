@@ -1,0 +1,269 @@
+Full Name,Username,Email,Password,Phone Number,Status,Employee Code,Designation,Reporting Manager,Department,Location,Role
+Anil Nikhra,anil.nikhra@logic-fruit.com,anil.nikhra@logic-fruit.com,pYdL3Z,9811591995,Active,9001,MD & SW Head,Sanjeev Kumar,Software,Gurgaon,USER
+Sanjeev Kumar,sanjeev.kumar@logic-fruit.com,sanjeev.kumar@logic-fruit.com,Rsj5P6,9810604920,Active,9002,CEO & HW Head,Anil Nikhra,Sales & Marketing,Gurgaon,USER
+Madhukar Manohar,madhukar.manohar@logic-fruit.com,madhukar.manohar@logic-fruit.com,XfqC2V,7838730825,Active,11012,Project Manager,Sonu Sonkar,QA,Gurgaon,USER
+Vineet Goel,vineet.goel@logic-fruit.com,vineet.goel@logic-fruit.com,MUuJ2H,9899780151,Active,11018,FPGA-HOD,Sanjeev Kumar,FPGA,Gurgaon,USER
+Harpreet Singh,harpreet.singh@logic-fruit.com,harpreet.singh@logic-fruit.com,bf9Z6e,9811121533,Active,14007,Project Manager,Anil Nikhra,Software,Gurgaon,USER
+Saurabh Goyal,saurabh.goyal@logic-fruit.com,saurabh.goyal@logic-fruit.com,Cwet8E,9953049848,Active,14015,Admin Head,Anil Nikhra,Admin,Gurgaon,USER
+Dhruv Saxena,dhruv.saxena@logic-fruit.com,dhruv.saxena@logic-fruit.com,ap7EGP,9212329303,Active,14018,Business Unit Head,Sanjeev Kumar,Software,Gurgaon,USER
+Abhishek Gupta,abhishek.gupta@logic-fruit.com,abhishek.gupta@logic-fruit.com,Q9BpJP,9540218780,Active,14019,Project Lead-Layout,Sanjeev Kumar,Hardware - Layout,Gurgaon,USER
+Sagar Gupta,sagar.gupta@logic-fruit.com,sagar.gupta@logic-fruit.com,h5dCwF,8130788301,Active,15001,Project Lead-Mechanical,Sanjeev Kumar,Hardware - Mechanical,Gurgaon,USER
+Sonu Sonkar,sonu.sonkar@logic-fruit.com,sonu.sonkar@logic-fruit.com,jW83rn,7863832789,Active,15004,Business Unit Head,Sanjeev Kumar,QA,Gurgaon,USER
+Akash Jain,akash.jain@logic-fruit.com,akash.jain@logic-fruit.com,hw9nEK,9810196020,Active,15007,Project Manager,Sanjeev Kumar,Hardware,Gurgaon,USER
+Shashank Chaurasia,shashank.chaurasia@logic-fruit.com,shashank.chaurasia@logic-fruit.com,Cf3Ypz,8793894258,Active,15016,Business Unit Head,Sanjeev Kumar,FPGA,Gurgaon,USER
+Satish Arora,satish.arora@logic-fruit.com,satish.arora@logic-fruit.com,NMpx64,9810054228,Active,15022,VP - Operation,Sanjeev Kumar,Sales & Marketing,Gurgaon,USER
+Deepak Goyal,deepak.goyal@logic-fruit.com,deepak.goyal@logic-fruit.com,Dx5fwH,9769471809,Active,15024,Project Manager,Sanjeev Kumar,FPGA,Gurgaon,USER
+Amritpreet Singh,amritpreet.singh@logic-fruit.com,amritpreet.singh@logic-fruit.com,VCE9f5,9871745740,Active,15029,Project Manager,Anil Nikhra,Software,Gurgaon,USER
+Nidhi Sharma,nidhi.sharma@logic-fruit.com,nidhi.sharma@logic-fruit.com,h5Mw8E,9810629045,Active,16004,Module Lead,Abhishek Gupta,Hardware - Layout,Gurgaon,USER
+Vijay Malhotra,vijay.malhotra@logic-fruit.com,vijay.malhotra@logic-fruit.com,ceH4v5,9910320799,Active,16005,Admin Assistant,Saurabh Goyal,Admin,Gurgaon,USER
+Sagar S L,sagar@logic-fruit.com,sagar@logic-fruit.com,eSA8u9,9886800816,Active,16009,Admin Head,Sanjay Pandey,Admin,Bangalore,USER
+Vikash Dubey,vikash.dubey@logic-fruit.com,vikash.dubey@logic-fruit.com,Z7kaCe,9582034130,Active,16019,Assistant Manager - Procurement,Satish Arora,Purchase,Gurgaon,USER
+Shankari Mulugu,shankari.mulugu@logic-fruit.com,shankari.mulugu@logic-fruit.com,t6hLxv,7893588622,Active,16030,Module Lead,Sonu Sonkar,QA,Bangalore,USER
+Shankar Yadav,shankar.yadav@logic-fruit.com,shankar.yadav@logic-fruit.com,jFfW9H,9990761161,Active,16032,Technician R&D,Satish Arora,Purchase,Gurgaon,USER
+Nitin Kumar,nitin.kumar@logic-fruit.com,nitin.kumar@logic-fruit.com,hH2NzL,8130617375,Active,16039,Senior Accountant,Vineet Goel,Finance,Gurgaon,USER
+Shiv Kumar,shiv.kumar@logic-fruit.com,shiv.kumar@logic-fruit.com,jxUG6J,9810322180,Active,17002,Manager - Accounts,Vineet Goel,Finance,Gurgaon,USER
+Dhileep S,dhileep@logic-fruit.com,dhileep@logic-fruit.com,w84ZMy,9500710345,Active,17004,Senior R&D Engineer,Ramakrishna D C,Hardware,Bangalore,USER
+Rahul Sharma,rahul.sharma@logic-fruit.com,rahul.sharma@logic-fruit.com,MJz2RD,9711320462,Active,17005,Project Manager,Sanjeev Kumar,Hardware,Gurgaon,USER
+Vimal Veerbalan,vimal.veerabalan@logic-fruit.com,vimal.veerabalan@logic-fruit.com,AsJq3r,9566268561,Active,17018,Module Lead,Shashank Chaurasia,FPGA,Bangalore,USER
+Nitin Singhal,nitin.singhal@logic-fruit.com,nitin.singhal@logic-fruit.com,xe8SnL,8505979365,Active,17023,Team Lead,Sagar Gupta,Hardware - Mechanical,Gurgaon,USER
+Swarup Sahu,swarup.sahu@logic-fruit.com,swarup.sahu@logic-fruit.com,E8hkRw,9090815645,Active,17024,Module Lead,Madhukar Manohar,QA,Bangalore,USER
+Vinoth Kumar,vinoth.kumar@logic-fruit.com,vinoth.kumar@logic-fruit.com,ga2pKx,9629000016,Active,17026,R&D Engineer-Trainee,Shashank Chaurasia,FPGA - Verification,Bangalore,USER
+Kumaresan Arunachalam,kumaresan@logic-fruit.com,kumaresan@logic-fruit.com,E9MWxS,8792799261,Active,17027,R&D Engineer-Trainee,Shashank Chaurasia,FPGA - Verification,Bangalore,USER
+Suchita Chaurrasiya,suchita.chaurrasiya@logic-fruit.com,suchita.chaurrasiya@logic-fruit.com,ptU4Kd,9620112104,Active,17034,Module Lead,Sonu Sonkar,QA,Gurgaon,USER
+Prabhjot Kaur,prabhjot.kaur@logic-fruit.com,prabhjot.kaur@logic-fruit.com,Qw2CvG,9953520393,Active,17038,Module Lead,Akash Jain,Hardware,Gurgaon,USER
+Akhilendra Kushwaha,akhilendra.kushwaha@logic-fruit.com,akhilendra.kushwaha@logic-fruit.com,xKa36M,9793275286,Active,18002,Module Lead,Abhishek Gupta,Hardware - Layout,Gurgaon,USER
+Mahendra Dhadwe,mahendra.dhadwe@logic-fruit.com,mahendra.dhadwe@logic-fruit.com,nb5Xts,9096443352,Active,18004,Team Lead,Anil Nikhra,Software,Gurgaon,USER
+Nikita Singh,nikita.singh@logic-fruit.com,nikita.singh@logic-fruit.com,JwNq6S,9899892057,Active,18007,Senior Manager-HR,Sanjeev Kumar,Human Resource,Gurgaon,USER
+Lalit Verma,lalit.verma@logic-fruit.com,lalit.verma@logic-fruit.com,F8wNr6,8130026909,Active,18009,Team Lead,Rahul Sharma,Hardware - Layout,Gurgaon,USER
+Muneet,muneet.lft@logic-fruit.com,muneet.lft@logic-fruit.com,cTj8YV,9469796341,Active,18011,Project Lead,Vineet Goel,FPGA,Gurgaon,USER
+Jaison John,jaison.john@logic-fruit.com,jaison.john@logic-fruit.com,a4sCVL,8860983746,Active,18024,Team Lead,Madhukar Manohar,QA,Gurgaon,USER
+Gaurav Goyal,gaurav.goyal@logic-fruit.com,gaurav.goyal@logic-fruit.com,E7NAw8,9911950929,Active,18025,Admin Head,Saurabh Goyal,Admin,Gurgaon,USER
+Gurpartap Singh,gurpartap.singh@logic-fruit.com,gurpartap.singh@logic-fruit.com,CaG7j3,8800102917,Active,18026,Team Lead,Harpreet Singh,Software,Gurgaon,USER
+Nishant Gaurav,nishant.gaurav@logic-fruit.com,nishant.gaurav@logic-fruit.com,ya6V5H,8828117334,Active,18028,Project Lead,Shashank Chaurasia,FPGA,Gurgaon,USER
+Adarsha A,adarsha.a@logic-fruit.com,adarsha.a@logic-fruit.com,w9VXyf,9480217300,Active,18037,Senior R&D Engineer,Muneet,FPGA,Bangalore,USER
+Ramakrishna D C,ramakrishna.dc@logic-fruit.com,ramakrishna.dc@logic-fruit.com,vzN3MW,8712930690,Active,18048,Project Lead,Mohammad Rafi,Hardware,Bangalore,USER
+Niyaz KaUSER,niyaz.kaUSER@logic-fruit.com,niyaz.kaUSER@logic-fruit.com,Vx7mq3,7488151326,Active,18060,Module Lead,Lalit Sharma,Software,Bangalore,USER
+Yogananda N,yogananda.n@logic-fruit.com,yogananda.n@logic-fruit.com,MdRy8X,8151993336,Active,18065,Senior Technician R&D,Raghavan T V,Hardware,Bangalore,USER
+Bhanu Pratap,bhanupratap@logic-fruit.com,bhanupratap@logic-fruit.com,b4tZsk,9404532860,Active,18066,Project Lead,Shashank Chaurasia,FPGA,Gurgaon,USER
+Anil B A,anil.ba@logic-fruit.com,anil.ba@logic-fruit.com,Nq9bWe,7899120494,Active,18067,Team Lead,Sagar Gupta,Hardware - Mechanical,Gurgaon,USER
+Nitin Gupta,nitin.gupta@logic-fruit.com,nitin.gupta@logic-fruit.com,nkq9NL,9024062127,Active,18072,Sr.Executive Accounts & Finance,Anil Nikhra,Payroll,Gurgaon,USER
+Balaji Prasanth,balaji.prasanth@logic-fruit.com,balaji.prasanth@logic-fruit.com,Ty2fP7,9036771091,Active,18079,Team Lead,Mohammad Rafi,Hardware,Bangalore,USER
+Sachin Sharma,sachin.sharma@logic-fruit.com,sachin.sharma@logic-fruit.com,Wgv9y6,9873723272,Active,19002,IT Manager,Satish Arora,IT Support,Gurgaon,TECHNICIAN
+Bhagyajit Mohanty,bhagyajit.mohanty@logic-fruit.com,bhagyajit.mohanty@logic-fruit.com,HJn9vb,7536969844,Active,19008,Module Lead,Mohammad Rafi,QA,Bangalore,USER
+Mohammad Rafi,rafi.mohammad@logic-fruit.com,rafi.mohammad@logic-fruit.com,e3TVG2,8800745456,Active,19010,Business Unit Head,Sanjeev Kumar,Hardware,Bangalore,USER
+Satyam Agrawal,satyam.agrawal@logic-fruit.com,satyam.agrawal@logic-fruit.com,p7UWdw,7348811192,Active,19012,Module Lead,Pushpkant Yadav,Software,Bangalore,USER
+Amaresh V,amaresh.v@logic-fruit.com,amaresh.v@logic-fruit.com,kj3Bug,7348811192,Active,19013,Module Lead,Madhukar Manohar,QA,Bangalore,USER
+Neha Singh,neha.singh@logic-fruit.com,neha.singh@logic-fruit.com,d4U7hp,8739885007,Active,19021,Process Coordinator,Nikita Singh,Process Coordination,Gurgaon,USER
+Ashish Bhadouria,ashish.singh@logic-fruit.com,ashish.singh@logic-fruit.com,fVJy4D,8269410024,Active,19030,Senior R&D Engineer,Akash Jain,Hardware,Gurgaon,USER
+Satish Uppar,satish.uppar@logic-fruit.com,satish.uppar@logic-fruit.com,v3FJSZ,8277337620,Active,19031,Module Lead,Sagar Gupta,Hardware - Mechanical,Bangalore,USER
+Arvind Dhakar,arvind.dhakar@logic-fruit.com,arvind.dhakar@logic-fruit.com,rfA95z,9950479157,Active,19034,Team Lead,Deepak Goyal,FPGA,Gurgaon,USER
+Vikas Kumar,vikas.kumar@logic-fruit.com,vikas.kumar@logic-fruit.com,b6xkDJ,8868860567,Active,19047,Module Lead,Lalit Sharma,Software,Gurgaon,USER
+Mausam Jain,mausam.jain@logic-fruit.com,mausam.jain@logic-fruit.com,X74Cqd,7566861495,Active,19048,Module Lead,Gurpreet Singh,Software,Gurgaon,USER
+Pavankumar Poorna,poorna.pavankumar@logic-fruit.com,poorna.pavankumar@logic-fruit.com,Ye3Dh9,7295963488,Active,19061,Project Lead,Shashank Chaurasia,FPGA,Bangalore,USER
+Bala Murali,balamurali.tokala@logic-fruit.com,balamurali.tokala@logic-fruit.com,bCce3f,9492977638,Active,19062,Project Lead,Vineet Goel,FPGA,Bangalore,USER
+Venkata Lokesh,venkata.lokesh@logic-fruit.com,venkata.lokesh@logic-fruit.com,u3jHDe,9908693401,Active,19063,Module Lead,Harpreet Singh,Software,Bangalore,USER
+Sravan Jilumudi,sravan.jilumudi@logic-fruit.com,sravan.jilumudi@logic-fruit.com,adTk8z,9381940356,Active,19064,Senior R&D Engineer,Pavankumar Poorna,FPGA,Bangalore,USER
+Balasubramani M,balasubramani.m@logic-fruit.com,balasubramani.m@logic-fruit.com,FB9vR6,9842704143,Active,19065,Senior R&D Engineer,Mohammad Rafi,Hardware,Bangalore,USER
+Yasir Mustafa,yasir.mustafa@logic-fruit.com,yasir.mustafa@logic-fruit.com,DS7m4G,8874773884,Active,19066,Module Lead,Gurpreet Singh,Software,Gurgaon,USER
+Priyanka Sengar,priyanka.singh@logic-fruit.com,priyanka.singh@logic-fruit.com,u7LcWd,8051118966,Active,20003,Module Lead,Deepak Goyal,FPGA,Gurgaon,USER
+Jaswant Singh,jaswant.singh@logic-fruit.com,jaswant.singh@logic-fruit.com,gvQ4PZ,9560318836,Active,20006,Head - Digital Marketing,Sanjeev Kumar,Sales & Marketing,Gurgaon,USER
+Saicharan Reddy,saicharan.reddy@logic-fruit.com,saicharan.reddy@logic-fruit.com,n6xPUj,7366872217,Active,20007,Module Lead,Deepak Goyal,FPGA,Bangalore,USER
+Karan Kumar,karan.kumar@logic-fruit.com,karan.kumar@logic-fruit.com,N7H3wa,9610804280,Active,20009,Module Lead,Shashank Chaurasia,FPGA,Gurgaon,USER
+Sanjay Gupta,sanjay.gupta@logic-fruit.com,sanjay.gupta@logic-fruit.com,Zjgp8F,9811177013,Active,20011,Module Lead,Anil Nikhra,Software,Gurgaon,USER
+Rahim Alam,rahim.alam@logic-fruit.com,rahim.alam@logic-fruit.com,aRFU6M,9971710775,Active,20012,Graphic & Motion Designer,Jaswant Singh,Sales & Marketing,Gurgaon,USER
+Saigovind Maurya,saigovind.maurya@logic-fruit.com,saigovind.maurya@logic-fruit.com,rtL8FC,7380544035,Active,20015,Module Lead,Vineet Goel,FPGA,Gurgaon,USER
+Rishabh Gupta,rishabh.gupta@logic-fruit.com,rishabh.gupta@logic-fruit.com,c4MgRn,8077938376,Active,20016,Module Lead,Vineet Goel,FPGA,Gurgaon,USER
+Pradeep Manikanta,pradeep.manikanta@logic-fruit.com,pradeep.manikanta@logic-fruit.com,LHtF4J,7794050540,Active,20023,Module Lead,Shashank Chaurasia,FPGA,Bangalore,USER
+Madavali Ashok,madavali.ashok@logic-fruit.com,madavali.ashok@logic-fruit.com,Q9YmXS,9573229979,Active,20024,Team Lead,Shashank Chaurasia,FPGA - Verification,Bangalore,USER
+Yenduri Dhiraj,yenduri.dhiraj@logic-fruit.com,yenduri.dhiraj@logic-fruit.com,Wp8NQm,8333087170,Active,20028,Module Lead,Vineet Goel,FPGA,Gurgaon,USER
+Meenu Kukreja,meenu.kukreja@logic-fruit.com,meenu.kukreja@logic-fruit.com,wTsj6N,9990206006,Active,20029,Module Lead,Amritpreet Singh,Software,Gurgaon,USER
+Poonam Nalawade,poonam.nalawade@logic-fruit.com,poonam.nalawade@logic-fruit.com,jGZ9eC,7090385370,Active,20035,Module Lead,Shashank Chaurasia,FPGA - Verification,Bangalore,USER
+Kulveer Singh,kulveer.singh@logic-fruit.com,kulveer.singh@logic-fruit.com,Ms7Tue,7500535929,Active,20036,R&D Engineer,Gurpreet Singh,Software,Gurgaon,USER
+Ankit Vats,ankit@logic-fruit.com,ankit@logic-fruit.com,Uub5p6,9991968249,Active,20037,Senior R&D Engineer,Amritpreet Singh,Software,Gurgaon,USER
+Pulkit Chopra,pulkit.chopra@logic-fruit.com,pulkit.chopra@logic-fruit.com,xX9jfw,9910419924,Active,20038,Senior R&D Engineer,Dhruv Saxena,Software,Gurgaon,USER
+Ashutosh Vishwakarma,ashutosh.vishwakarma@logic-fruit.com,ashutosh.vishwakarma@logic-fruit.com,AG9w8B,7984755913,Active,20039,Manager- Sales & Marketing,Sanjay Pandey,Sales & Marketing,Gurgaon,USER
+Sourabh Sharma,sourabh.sharma@logic-fruit.com,sourabh.sharma@logic-fruit.com,Jyp5RP,9667778309,Active,20040,Manager- Sales & Marketing,Sanjeev Kumar,Sales & Marketing,Gurgaon,USER
+Ashutosh Yadav,ashutosh.yadav@logic-fruit.com,ashutosh.yadav@logic-fruit.com,vxh8RV,9461680280,Active,21001,Senior R&D Engineer,Amritpreet Singh,Software,Gurgaon,USER
+Sonu Singh,sonu.singh@logic-fruit.com,sonu.singh@logic-fruit.com,uTA5cD,8866701824,Active,21008,Senior Manager- Sales & Marketing,Sanjay Pandey,Sales & Marketing,Gurgaon,USER
+Rituj Beniwal,rituj@logic-fruit.com,rituj@logic-fruit.com,U3qDs2,9462733352,Active,21010,Module Lead,Sanjeev Kumar,FPGA,Gurgaon,USER
+Piyush Gupta,piyush.gupta@logic-fruit.com,piyush.gupta@logic-fruit.com,wV4qe3,8373939570,Active,21011,Assistant Manager - Digital Marketing,Jaswant Singh,Sales & Marketing,Gurgaon,USER
+Prajwal Deonath,prajwal.dharmik@logic-fruit.com,prajwal.dharmik@logic-fruit.com,U3MPdn,7506209376,Active,21018,Senior R&D Engineer,Rinku Jain,FPGA - Verification,Bangalore,USER
+Pawan Pawar,pawan.pawar@logic-fruit.com,pawan.pawar@logic-fruit.com,gKnX7C,9380073629,Active,21021,Senior R&D Engineer,Madhukar Manohar,QA,Gurgaon,USER
+Vikram Paliwal,vikram.paliwal@logic-fruit.com,vikram.paliwal@logic-fruit.com,geD8Fc,9805343201,Active,21023,Team Lead,Mohammad Rafi,Software,Bangalore,USER
+Vivek Ojha,vivek.kumar@logic-fruit.com,vivek.kumar@logic-fruit.com,W5d36z,8095187145,Active,21025,R&D Engineer,Pushpkant Yadav,Software,Gurgaon,USER
+Sonali Agarwal,sonali.agarwal@logic-fruit.com,sonali.agarwal@logic-fruit.com,mR2Dy8,9412294395,Active,21029,Manager - HR,Sanjay Pandey,Human Resource,Bangalore,USER
+Abdul Basit,abdul.basit@logic-fruit.com,abdul.basit@logic-fruit.com,b5UPsz,7838390659,Active,21032,Manager- Design Quality & Process,Madhukar Manohar,QA,Gurgaon,USER
+Ashish Singh,ashish.kumar@logic-fruit.com,ashish.kumar@logic-fruit.com,hBU4Qe,9795961453,Active,21037,Senior R&D Engineer,Poonam Nalawade,FPGA - Verification,Gurgaon,USER
+Rajan Sharma,rajan.kumar@logic-fruit.com,rajan.kumar@logic-fruit.com,d52yZm,9123280643,Active,21042,Module Lead,Muneet,FPGA,Gurgaon,USER
+Tejaswi Yadav,Tejaswi.yadav@logic-fruit.com,Tejaswi.yadav@logic-fruit.com,r9jKEv,8738870907,Active,21044,R&D Engineer,Muneet,FPGA,Gurgaon,USER
+Ritika Rao,ritika.rao@logic-fruit.com,ritika.rao@logic-fruit.com,P7Kjy6,9205676340,Active,21047,R&D Engineer,Bhanu Pratap,FPGA,Gurgaon,USER
+Himanshu Singh,himanshu.singh@logic-fruit.com,himanshu.singh@logic-fruit.com,Ca5YQP,8630385284,Active,21048,R&D Engineer,Pavankumar Poorna,FPGA,Gurgaon,USER
+Pratik Kumar,pratik.kumar@logic-fruit.com,pratik.kumar@logic-fruit.com,DTn43x,7033186350,Active,21049,Module Lead,Muneet,FPGA,Gurgaon,USER
+Vivek Basant,vivek.basant@logic-fruit.com,vivek.basant@logic-fruit.com,p2c9BU,7762906570,Active,21050,Module Lead,Muneet,FPGA,Gurgaon,USER
+Devesh pareek,devesh.pareek@logic-fruit.com,devesh.pareek@logic-fruit.com,d4rGqH,7062852290,Active,21055,R&D Engineer,Pavankumar Poorna,FPGA,Gurgaon,USER
+Baliram,baliram@logic-fruit.com,baliram@logic-fruit.com,b5PhGU,7754913060,Active,21056,R&D Engineer,Deepak Goyal,FPGA,Gurgaon,USER
+Gurpreet Singh,gurpreet.singh@logic-fruit.com,gurpreet.singh@logic-fruit.com,Bfj9hA,8586849984,Active,21059,Project Lead,Dhruv Saxena,Software,Gurgaon,USER
+Gangadhar Nallagorla,gangadhar.nallagorla@logic-fruit.com,gangadhar.nallagorla@logic-fruit.com,CTj2pn,9493315921,Active,21067,R&D Engineer,Shashank Chaurasia,FPGA,Bangalore,USER
+Rajshekhar Azad,rajshekhar.azad@logic-fruit.com,rajshekhar.azad@logic-fruit.com,kYj7M6,9602902768,Active,21069,R&D Engineer,Muneet,FPGA,Gurgaon,USER
+Yaswanth Reddy,yaswanth.gona@logic-fruit.com,yaswanth.gona@logic-fruit.com,Aec7Lp,8897974074,Active,21070,Module Lead,Deepak Goyal,FPGA,Bangalore,USER
+Saket Kumar,saket.kumar@logic-fruit.com,saket.kumar@logic-fruit.com,gp4KPW,8467035456,Active,21071,Senior R&D Engineer,Madhukar Manohar,QA,Gurgaon,USER
+Anirudh Mulugu,anirudh.mulugu@logic-fruit.com,anirudh.mulugu@logic-fruit.com,AM8u7R,9535091826,Active,21073,Senior R&D Engineer,Pushpkant Yadav,Software,Bangalore,USER
+Bharath K,bharath.k@logic-fruit.com,bharath.k@logic-fruit.com,fYz5Fd,7204940017,Active,21074,Team Lead,Shashank Chaurasia,FPGA - Verification,Bangalore,USER
+Maradiranganath,maradiranganath_lft@logic-fruit.com,maradiranganath_lft@logic-fruit.com,QACs8t,6361606454,Active,21077,Senior R&D Engineer,Vikram Paliwal,Software,Bangalore,USER
+Chaitanya Siva,chaitanya.siva@logic-fruit.com,chaitanya.siva@logic-fruit.com,d6TKvb,9019569344,Active,21078,R&D Engineer,Sonu Sonkar,Software,Gurgaon,USER
+Md. Izhar,md.izhar@logic-fruit.com,md.izhar@logic-fruit.com,uM4Gpf,8076770541,Active,21080,R&D Engineer,Bhanu Pratap,FPGA,Bangalore,USER
+Pushpkant Yadav,pushpkant.yadav@logic-fruit.com,pushpkant.yadav@logic-fruit.com,Y2Gzf6,9950238365,Active,21081,Project Lead,Mohammad Rafi,Software,Bangalore,USER
+Mohit Bhandari,mohit.bhandari@logic-fruit.com,mohit.bhandari@logic-fruit.com,R3FyZP,9205265431,Active,21084,R&D Engineer,Gurpreet Singh,Software,Gurgaon,USER
+Aakash Ojha,aakash.ojha@logic-fruit.com,aakash.ojha@logic-fruit.com,CN96cF,9507988794,Active,21085,R&D Engineer,Shashank Chaurasia,FPGA,Gurgaon,USER
+Aashish Paliwal,aashish.paliwal@logic-fruit.com,aashish.paliwal@logic-fruit.com,UxDF4Q,9818721419,Active,21086,Senior R&D Engineer,Madhukar Manohar,QA,Gurgaon,USER
+Sourav Rana,sourav.kumar@logic-fruit.com,sourav.kumar@logic-fruit.com,fha6HX,8076812130,Active,21087,R&D Engineer,Muneet,FPGA,Gurgaon,USER
+G Krishna Mohan,krishna.mohan@logic-fruit.com,krishna.mohan@logic-fruit.com,bW9YUB,8056086022,Active,21090,R&D Engineer,Bala Murali,FPGA,Bangalore,USER
+Kalaivani Mariappan,kalaivani.mariappan@logic-fruit.com,kalaivani.mariappan@logic-fruit.com,n4dGRq,9092850020,Active,21092,US Technical Recruiter,Nikita Singh,Human Resource,Bangalore,USER
+Shivanshu Verma,shivanshu.verma@logic-fruit.com,shivanshu.verma@logic-fruit.com,d4SbJz,982633030,Active,21093,Module Lead,Abhishek Gupta,Hardware,Gurgaon,USER
+Mourya Mithra,mourya.naramala@logic-fruit.com,mourya.naramala@logic-fruit.com,SA2y5V,9492509400,Active,21095,Senior R&D Engineer,Amritpreet Singh,Software,Gurgaon,USER
+Jagdish Chandra,jagdish.gorain@logic-fruit.com,jagdish.gorain@logic-fruit.com,hCzW62,6205188053,Active,21097,R&D Engineer-Trainee,Harpreet Singh,Software,Gurgaon,USER
+Kajal Chaudhary,kajal.chaudhary@logic-fruit.com,kajal.chaudhary@logic-fruit.com,dmb2Gf,8077066457,Active,21098,Senior R&D Engineer,Poonam Nalawade,FPGA - Verification,Gurgaon,USER
+Pooja Gaur,pooja.gaur@logic-fruit.com,pooja.gaur@logic-fruit.com,PC6p8F,9643523030,Active,21100,Team Lead,Gurpreet Singh,Software,Gurgaon,USER
+Purnima Sharma,purnima.sharma@logic-fruit.com,purnima.sharma@logic-fruit.com,VHud8z,8486886589,Active,21104,R&D Engineer,Karan Kumar,FPGA,Gurgaon,USER
+Biswa Biplab,biswa.biplab@logic-fruit.com,biswa.biplab@logic-fruit.com,QGgN2A,8389060866,Active,21106,R&D Engineer-Trainee,Madavali Ashok,FPGA - Verification,Gurgaon,USER
+Pradeep M,pradeep.m@logic-fruit.com,pradeep.m@logic-fruit.com,H3fFwp,7204506837,Active,21108,System Administrator,Sanjay Pandey,IT Support,Bangalore,TECHNICIAN
+Mohit Mann,mohit.maan@logic-fruit.com,mohit.maan@logic-fruit.com,u9ywM2,8394800812,Active,21111,R&D Engineer,Mahendra Dhadwe,Software,Gurgaon,USER
+Varun Pant,varun.pant@logic-fruit.com,varun.pant@logic-fruit.com,q8Mrta,9205864052,Active,21112,Senior R&D Engineer,Amritpreet Singh,Software,Gurgaon,USER
+Nagesh Neelam,nagesh.neelam@logic-fruit.com,nagesh.neelam@logic-fruit.com,Rub2Fk,7981647376,Active,21113,R&D Engineer-Trainee,Gurpreet Singh,Software,Gurgaon,USER
+Hargovind Singh,hargovind.singh@logic-fruit.com,hargovind.singh@logic-fruit.com,ZJ2r6W,9629905655,Active,21114,Module Lead,Dhruv Saxena,Software,Gurgaon,USER
+Hemanth Chintalapudi,hemanth.chintalapudi@logic-fruit.com,hemanth.chintalapudi@logic-fruit.com,Wek9DM,9705172985,Active,21115,R&D Engineer,Pavankumar Poorna,FPGA,Bangalore,USER
+Rajat Dongre,rajat.dongre@logic-fruit.com,rajat.dongre@logic-fruit.com,Ng5Vm4,9373155693,Active,21116,R&D Engineer-Trainee,Sonu Sonkar,Software,Gurgaon,USER
+Kanak Lawaniyan,kanak.lawaniyan@logic-fruit.com,kanak.lawaniyan@logic-fruit.com,QFu9e5,6307355363,Active,22001,R&D Engineer,Harpreet Singh,Software,Gurgaon,USER
+Arpit Bansal,arpit.bansal@logic-fruit.com,arpit.bansal@logic-fruit.com,CZMe2X,7611831915,Active,22002,R&D Engineer-Trainee,Mahendra Dhadwe,Software,Gurgaon,USER
+Sujata Singh,sujata.singh@logic-fruit.com,sujata.singh@logic-fruit.com,FWy5EU,4.92E+12,Active,22003,R&D Engineer-Trainee,Rinku Jain,FPGA - Verification,Gurgaon,USER
+Animesh Kumar,animesh.kumar@logic-fruit.com,animesh.kumar@logic-fruit.com,sxfX7r,7979766426,Active,22004,R&D Engineer,Shashank Chaurasia,FPGA,Gurgaon,USER
+Shaik Vaseem,shaik.vaseem@logic-fruit.com,shaik.vaseem@logic-fruit.com,n4VEL7,8919136667,Active,22005,R&D Engineer,Rituj Beniwal,FPGA,Bangalore,USER
+Asha Kundu,asha.kundu@logic-fruit.com,asha.kundu@logic-fruit.com,C3f9jh,9672675837,Active,22006,R&D Engineer,Madhukar Manohar,QA,Gurgaon,USER
+Lalit Sharma,lalit.sharma@logic-fruit.com,lalit.sharma@logic-fruit.com,sQ3RXm,9899875753,Active,22007,Team Lead,Dhruv Saxena,Software,Gurgaon,USER
+Rakesh Rai,rakesh.rai@logic-fruit.com,rakesh.rai@logic-fruit.com,L7rtjq,7384999180,Active,22011,R&D Engineer,Rituj Beniwal,FPGA,Gurgaon,USER
+Sunita Chakraborty,sunita@logic-fruit.com,sunita@logic-fruit.com,jD9Ndu,9971624308,Active,22012,Store Executive,Vikash Dubey,Purchase,Gurgaon,USER
+Rakesh Mansar,rakesh.mansar@logic-fruit.com,rakesh.mansar@logic-fruit.com,G6bAwz,8817769667,Active,22014,R&D Engineer,Vikram Paliwal,Software,Gurgaon,USER
+Bhavesh Kumar,bhavesh.kumar@logic-fruit.com,bhavesh.kumar@logic-fruit.com,NBXe2R,6205025350,Active,22015,Senior R&D Engineer,Amritpreet Singh,Software,Gurgaon,USER
+Yogendra Kumar,yogendra.kumar@logic-fruit.com,yogendra.kumar@logic-fruit.com,dF6tca,9560831120,Active,22017,Module Lead,Harpreet Singh,Software,Gurgaon,USER
+Shayaque Alam,shayaque.alam@logic-fruit.com,shayaque.alam@logic-fruit.com,h2f9BW,7488263314,Active,22019,Senior R&D Engineer,Gurpreet Singh,Software,Gurgaon,USER
+Aditi Sharma,aditi.sharma@logic-fruit.com,aditi.sharma@logic-fruit.com,wWn3pD,7983353525,Active,22020,R&D Engineer,Madhukar Manohar,QA,Gurgaon,USER
+Veeresh Muddebihal,veeresh.muddebihal@logic-fruit.com,veeresh.muddebihal@logic-fruit.com,bXNf5G,8861071477,Active,22022,R&D Engineer,Madavali Ashok,FPGA - Verification,Bangalore,USER
+Laxmana Rao,laxmana.rao@logic-fruit.com,laxmana.rao@logic-fruit.com,jVat9T,9398923784,Active,22025,Module Lead,Ramakrishna D C,Hardware,Bangalore,USER
+Nitin Yadav,nitin.yadav@logic-fruit.com,nitin.yadav@logic-fruit.com,uBKh9F,9717196398,Active,22026,R&D Engineer,Akash Jain,Hardware,Gurgaon,USER
+Arun Prabhu,arun.prabhu@logic-fruit.com,arun.prabhu@logic-fruit.com,SDf2aM,8428165680,Active,22027,R&D Engineer,Bhagyajit Mohanty,QA,Bangalore,USER
+Syed Rabbani,syed.rabbani@logic-fruit.com,syed.rabbani@logic-fruit.com,yGQ7rz,9966165465,Active,22028,R&D Engineer,Vikram Paliwal,QA,Bangalore,USER
+Ashish Padhan,ashish.padhan@logic-fruit.com,ashish.padhan@logic-fruit.com,htRA8H,9995202365,Active,22029,R&D Engineer,Gurpreet Singh,Software,Gurgaon,USER
+Jay Krishna,jay.krishna@logic-fruit.com,jay.krishna@logic-fruit.com,a8NmKG,8127934413,Active,22030,R&D Engineer,Lalit Verma,Hardware,Gurgaon,USER
+Twinkle Singla,twinkle.singla@logic-fruit.com,twinkle.singla@logic-fruit.com,c8Cb2T,9650986775,Active,22031,R&D Engineer,Shashank Chaurasia,FPGA,Gurgaon,USER
+Deepeshwar Kumar,deepeshwar.kumar@logic-fruit.com,deepeshwar.kumar@logic-fruit.com,R8ztBd,7984924129,Active,22032,R&D Engineer,Rituj Beniwal,FPGA,Bangalore,USER
+Niranjan Kumar,niranjan.kumar@logic-fruit.com,niranjan.kumar@logic-fruit.com,q6kRMd,7488638489,Active,22033,R&D Engineer,Akash Jain,Hardware,Gurgaon,USER
+Vivek Bharti,vivek.bharti@logic-fruit.com,vivek.bharti@logic-fruit.com,mXZ6Hx,7505163637,Active,22035,R&D Engineer,Muneet,FPGA,Gurgaon,USER
+Anitha G,anitha.g@logic-fruit.com,anitha.g@logic-fruit.com,kRKa4S,9071988641,Active,22036,R&D Engineer,Pavankumar Poorna,FPGA,Bangalore,USER
+Kavya B,kavya.b@logic-fruit.com,kavya.b@logic-fruit.com,nB7YPN,9341162595,Active,22037,Module Lead,Shashank Chaurasia,FPGA - Verification,Bangalore,USER
+Adit Raj Gautam,adit.raj@logic-fruit.com,adit.raj@logic-fruit.com,vD7nem,9694772231,Active,22038,R&D Engineer,Karan Kumar,FPGA,Gurgaon,USER
+Manamohana S,manamohana.s@logic-fruit.com,manamohana.s@logic-fruit.com,dGS9WE,9148523291,Active,22039,R&D Engineer,Anil B A,Hardware - Mechanical,Bangalore,USER
+Fuzail Qamar,fuzail.qamar@logic-fruit.com,fuzail.qamar@logic-fruit.com,XzL5JT,9643959810,Active,22040,System Administrator,Sachin Sharma,IT Support,Gurgaon,TECHNICIAN
+Shaswat Soni,shaswat.soni@logic-fruit.com,shaswat.soni@logic-fruit.com,S6Rj4L,9711594640,Active,22042,Senior R&D Engineer,Dhruv Saxena,Software,Gurgaon,USER
+Karthik R,karthik.r@logic-fruit.com,karthik.r@logic-fruit.com,pm6wUA,8105169157,Active,22043,Senior R&D Engineer,Shashank Chaurasia,FPGA,Bangalore,USER
+Raviteja Burada,ravi.teja@logic-fruit.com,ravi.teja@logic-fruit.com,c5QdDZ,9703876034,Active,22044,R&D Engineer,Madhukar Manohar,QA,Gurgaon,USER
+Niranjana R,niranjana@logic-fruit.com,niranjana@logic-fruit.com,DuF93K,8825715229,Active,22045,Assistant Manager - Content Marketing,Jaswant Singh,Sales & Marketing,Bangalore,USER
+Rohit Sharma,rohit.sharma@logic-fruit.com,rohit.sharma@logic-fruit.com,Puw4es,9999125431,Active,22046,R&D Engineer,Mahendra Dhadwe,Software,Gurgaon,USER
+Abhinav Joshi,abhinav.joshi@logic-fruit.com,abhinav.joshi@logic-fruit.com,D6BtqK,9928970750,Active,22047,R&D Engineer,Bala Murali,FPGA,Gurgaon,USER
+Yashpratap Singh,yash.pratap@logic-fruit.com,yash.pratap@logic-fruit.com,mQ6KAX,6377943108,Active,22048,R&D Engineer,Pradeep Manikanta,FPGA,Gurgaon,USER
+Raju Raj Purohit,raju.raj@logic-fruit.com,raju.raj@logic-fruit.com,U4KqW8,8639667384,Active,22049,R&D Engineer,Bala Murali,FPGA,Bangalore,USER
+Deepanshu,deepanshu@logic-fruit.com,deepanshu@logic-fruit.com,Ph7C8L,9518600277,Active,22050,R&D Engineer,Harpreet Singh,Software,Gurgaon,USER
+Lakshit Singh,lakshit.singh@logic-fruit.com,lakshit.singh@logic-fruit.com,fJtN6S,9760212126,Active,22051,R&D Engineer,Harpreet Singh,Software,Gurgaon,USER
+Amit Kumar,amit.kumar@logic-fruit.com,amit.kumar@logic-fruit.com,z7L9Xj,9661603363,Active,22052,R&D Engineer,Nishant Gaurav,FPGA,Gurgaon,USER
+Faizan Khan,faizan.khan@logic-fruit.com,faizan.khan@logic-fruit.com,ujhS3U,8948117084,Active,22054,R&D Engineer,Nishant Gaurav,FPGA,Gurgaon,USER
+Aditya Pathak,aditya.pathak@logic-fruit.com,aditya.pathak@logic-fruit.com,Mg3rfU,9199226642,Active,22055,R&D Engineer,Muneet,FPGA,Gurgaon,USER
+Toshik Joshi,toshik.joshi@logic-fruit.com,toshik.joshi@logic-fruit.com,jaJR37,7000382761,Active,22056,R&D Engineer,Muneet,FPGA,Gurgaon,USER
+Utsab banerjee,utsab.banerjee@logic-fruit.com,utsab.banerjee@logic-fruit.com,cLR5tJ,7294868462,Active,22057,R&D Engineer,Deepak Goyal,FPGA,Gurgaon,USER
+Shubham Maurya,shubham.maurya@logic-fruit.com,shubham.maurya@logic-fruit.com,wg9T4Q,7355480956,Active,22058,R&D Engineer,Saicharan Reddy,FPGA,Gurgaon,USER
+Piyush Saini,piyush.saini@logic-fruit.com,piyush.saini@logic-fruit.com,S6ba4C,8958635215,Active,22060,R&D Engineer,Mahendra Dhadwe,Software,Gurgaon,USER
+Sanyam Jain,sanyam.jain@logic-fruit.com,sanyam.jain@logic-fruit.com,Pz8Kg5,8529466787,Active,22061,R&D Engineer,Arvind Dhakar,FPGA,Bangalore,USER
+Shivanesh G,shivanesh.g@logic-fruit.com,shivanesh.g@logic-fruit.com,ZsG5fm,8208086923,Active,22062,R&D Engineer,Shashank Chaurasia,FPGA,Bangalore,USER
+Arpitha Shekar,arpitha.shekar@logic-fruit.com,arpitha.shekar@logic-fruit.com,jP3F47,7975924352,Active,22063,Module Lead,Shashank Chaurasia,FPGA,Bangalore,USER
+Ayushi Srivastava,ayushi.srivastava@logic-fruit.com,ayushi.srivastava@logic-fruit.com,nCmG8u,9449184965,Active,22065,R&D Engineer,Madhukar Manohar,Software,Bangalore,USER
+Anand Kumar,anand.kumar@logic-fruit.com,anand.kumar@logic-fruit.com,j3NuWU,9471437430,Active,22067,R&D Engineer-Trainee,Mahendra Dhadwe,Software,Gurgaon,USER
+Mahima Kumawat,mahima.kumawat@logic-fruit.com,mahima.kumawat@logic-fruit.com,SkN4Lv,9116110280,Active,22068,R&D Engineer,Nishant Gaurav,FPGA,Gurgaon,USER
+Gopi Satya,gopi.satya@logic-fruit.com,gopi.satya@logic-fruit.com,hJcv9H,8121588121,Active,22069,R&D Engineer,Deepak Goyal,FPGA,Bangalore,USER
+Adithya Varma,adithya.varma@logic-fruit.com,adithya.varma@logic-fruit.com,M9zRKX,9392216532,Active,22070,R&D Engineer,Pavankumar Poorna,FPGA,Bangalore,USER
+Susrith Polsani,susrith.polsani@logic-fruit.com,susrith.polsani@logic-fruit.com,Mk3Fce,9381437091,Active,22071,R&D Engineer,Pavankumar Poorna,FPGA,Bangalore,USER
+Sparsh Verma,sparsh.verma@logic-fruit.com,sparsh.verma@logic-fruit.com,YM6bsy,8447892466,Active,22072,Module Lead,Mahendra Dhadwe,Software,Gurgaon,USER
+Ritvik Thakur,ritvik.thakur@logic-fruit.com,ritvik.thakur@logic-fruit.com,vB9Md6,7972355446,Active,22074,R&D Engineer,Shashank Chaurasia,FPGA,Bangalore,USER
+Rakesh Thakur,rakesh.thakur@logic-fruit.com,rakesh.thakur@logic-fruit.com,B3MkxX,9142311297,Active,22075,R&D Engineer,Pushpkant Yadav,Software,Bangalore,USER
+Utkarsh Sharma,utkarsh.sharma@logic-fruit.com,utkarsh.sharma@logic-fruit.com,ysL3XA,9887563571,Active,22077,R&D Engineer,Bhanu Pratap,FPGA,Gurgaon,USER
+Karthick Kumar,karthick.kumar@logic-fruit.com,karthick.kumar@logic-fruit.com,Wzp2Eb,9344215964,Active,22078,R&D Engineer,Amritpreet Singh,Software,Bangalore,USER
+Hitanshu Saini,hitanshu.saini@logic-fruit.com,hitanshu.saini@logic-fruit.com,LEv8ec,7011066731,Active,22079,R&D Engineer,Harpreet Singh,QA,Gurgaon,USER
+Aarav Singh,aarav.singh@logic-fruit.com,aarav.singh@logic-fruit.com,rLt28p,8210397339,Active,22080,R&D Engineer,Amritpreet Singh,Software,Gurgaon,USER
+Apeksha Kamble,apeksha.kamble@logic-fruit.com,apeksha.kamble@logic-fruit.com,cA9yMg,9049620801,Active,22081,Senior R&D Engineer,Madavali Ashok,FPGA - Verification,Bangalore,USER
+Neeraj Yadav,neeraj.yadav@logic-fruit.com,neeraj.yadav@logic-fruit.com,rxP9bn,9509772125,Active,22082,R&D Engineer,Poonam Nalawade,FPGA - Verification,Gurgaon,USER
+Ajay Kumar,ajay.kumar@logic-fruit.com,ajay.kumar@logic-fruit.com,wVG7Nn,7051723763,Active,22085,R&D Engineer-Trainee,Gurpreet Singh,Software,Gurgaon,USER
+Yogachitra Durairaj,yogachithra@logic-fruit.com,yogachithra@logic-fruit.com,emTK5W,8056410264,Active,22087,R&D Engineer,Dhruv Saxena,Software,Bangalore,USER
+Ravi Sharma,ravi.sharma@logic-fruit.com,ravi.sharma@logic-fruit.com,d4MxQs,6005054158,Active,22088,R&D Engineer,Muneet,FPGA,Gurgaon,USER
+Ayushi Tripathi,ayushi.tripathi@logic-fruit.com,ayushi.tripathi@logic-fruit.com,Msdr96,8573899893,Active,22089,R&D Engineer,Nishant Gaurav,FPGA,Gurgaon,USER
+Velluri Sireesha,velluri.sireesha@logic-fruit.com,velluri.sireesha@logic-fruit.com,Ln9VSG,6301467083,Active,22090,R&D Engineer,Harpreet Singh,Software,Bangalore,USER
+Shalender,shalender@logic-fruit.com,shalender@logic-fruit.com,BwkC43,9205262192,Active,22091,R&D Engineer,Rinku Jain,FPGA - Verification,Gurgaon,USER
+Rupa Rani,rupa.rani@logic-fruit.com,rupa.rani@logic-fruit.com,vkQ2SA,7838955505,Active,22092,Module lead,Harpreet Singh,Software,Gurgaon,USER
+Sharad Kumar,sharad.chauhan@logic-fruit.com,sharad.chauhan@logic-fruit.com,fA9Hrt,9289427612,Active,22093,Team Lead,Anil Nikhra,Software,Gurgaon,USER
+Pratima Tyagi,pratima.tyagi@logic-fruit.com,pratima.tyagi@logic-fruit.com,hZCQ25,8700019148,Active,22094,HR Coordinator,Nikita Singh,Human Resource,Gurgaon,USER
+Vijay Pal Sharma,vijay.sharma@logic-fruit.com,vijay.sharma@logic-fruit.com,D54Htk,9958333110,Active,22095,VP-Engineering,Sanjeev Kumar,R&D,Gurgaon,USER
+Anuj Kumar,anuj.kumar@logic-fruit.com,anuj.kumar@logic-fruit.com,VLfa4E,9871687491,Active,22097,Module lead,Dhruv Saxena,Software,Gurgaon,USER
+Pardeep Kumar,pardeepkumar.it@logic-fruit.com,pardeepkumar.it@logic-fruit.com,nhu9DZ,9729130060,Active,22098,Assistant Manager - IT,Satish Arora,IT Support,Gurgaon,TECHNICIAN
+Raj Kumar,raj.kumar@logic-fruit.com,raj.kumar@logic-fruit.com,AUt3Z2,9057536259,Active,22099,Senior R&D Engineer,Rahul Sharma,Hardware,Gurgaon,USER
+Piyuesh Chauhan,piyuesh.chauhan@logic-fruit.com,piyuesh.chauhan@logic-fruit.com,tJ8Eez,9560444919,Active,22100,Team Lead,Dhruv Saxena,Software,Gurgaon,USER
+Abhishek Chauhan,abhishek.chauhan@logic-fruit.com,abhishek.chauhan@logic-fruit.com,Vzue4b,9891526099,Active,22101,Module lead,Anil Nikhra,Software,Gurgaon,USER
+Arjun Singh,arjun.singh@logic-fruit.com,arjun.singh@logic-fruit.com,kpE9Bz,9082337826,Active,22102,Verification Engineer - I,Madavali Ashok,FPGA - Verification,Gurgaon,USER
+Raghavan T V,raghavan@logic-fruit.com,raghavan@logic-fruit.com,gxM9vd,9900792528,Active,22103,Project Manager,Mohammad Rafi,R&D,Bangalore,USER
+Rajul Dube,rajul.dube@logic-fruit.com,rajul.dube@logic-fruit.com,a2KSPM,8447911797,Active,22104,Assistant Manager - HR,Nikita Singh,Human Resource,Gurgaon,USER
+Jaydeep Roy,jaydeep.roy@logic-fruit.com,jaydeep.roy@logic-fruit.com,zwr9Qq,8123220045,Active,23001,5G Principal Architect,Sonu Sonkar,Software,Bangalore,USER
+Monika Gupta,monika.gupta@logic-fruit.com,monika.gupta@logic-fruit.com,rp6KCA,9650244006,Active,23002,Project Manager,Vijay Pal Sharma,R&D,Gurgaon,USER
+Abhishek Khandelwal,abhishek.khandelwal@logic-fruit.com,abhishek.khandelwal@logic-fruit.com,a4MQcD,9971346997,Active,23003,System Architect,Sanjeev Kumar,Hardware,Gurgaon,USER
+Shashwat Tripathi,shashwat@logic-fruit.com,shashwat@logic-fruit.com,ZC4Wpm,9076930132,Active,23004,R&D Engineer-Trainee,Shashank Chaurasia,FPGA - Verification,Gurgaon,USER
+Kolluru Yashwanth,kolluru.yashwanth@logic-fruit.com,kolluru.yashwanth@logic-fruit.com,VX8pBm,7479430724,Active,23006,R&D Engineer-Trainee,Shashank Chaurasia,FPGA - Verification,Gurgaon,USER
+Sampatharao Jyotsana,jyotsana@logic-fruit.com,jyotsana@logic-fruit.com,WjFh5n,9390093127,Active,23007,R&D Engineer-Trainee,Deepak Goyal,FPGA,Bangalore,USER
+Kalyan Srivatsav,ganapathy.kalyan@logic-fruit.com,ganapathy.kalyan@logic-fruit.com,DB3Uq7,9390275386,Active,23008,R&D Engineer-Trainee,Pavankumar Poorna,FPGA,Bangalore,USER
+Sohail Faizan,sohail.faizan@logic-fruit.com,sohail.faizan@logic-fruit.com,JeA9kT,9783907221,Active,23009,R&D Engineer-Trainee,Pavankumar Poorna,FPGA,Bangalore,USER
+Satendra Singh,satendra@logic-fruit.com,satendra@logic-fruit.com,aLy9Ud,8302878040,Active,23010,R&D Engineer-Trainee,Amritpreet Singh,Software,Gurgaon,USER
+Sanchit Mittal,sanchit.mittal@logic-fruit.com,sanchit.mittal@logic-fruit.com,t9Mx82,9352290345,Active,23011,R&D Engineer-Trainee,Arvind Dhakar,FPGA,Gurgaon,USER
+Rohit Kewat,rohit.kewat@logic-fruit.com,rohit.kewat@logic-fruit.com,Aev5Wt,8209569025,Active,23012,R&D Engineer,Dhruv Saxena,Software,Gurgaon,USER
+Siddhant Kaashikar,siddhant.kaashikar@logic-fruit.com,siddhant.kaashikar@logic-fruit.com,NTh3C4,7350014149,Active,23013,R&D Engineer-Trainee,Rituj Beniwal,FPGA,Gurgaon,USER
+Vikas Gupta,vikas.gupta@logic-fruit.com,vikas.gupta@logic-fruit.com,Q7a9hs,8629809073,Active,23014,R&D Engineer-Trainee,Arvind Dhakar,FPGA,Gurgaon,USER
+Ashika Beham,ashika.beham@logic-fruit.com,ashika.beham@logic-fruit.com,D2pPAk,9047053094,Active,23015,Senior R&D Engineer,Amritpreet Singh,Software,Bangalore,USER
+Saurav Kumar,saurav.kumar@logic-fruit.com,saurav.kumar@logic-fruit.com,J4vcyw,8130607041,Active,23016,R&D Engineer-Trainee,Shashank Chaurasia,FPGA - Verification,Bangalore,USER
+Shashank Pal,shashank.pal@logic-fruit.com,shashank.pal@logic-fruit.com,Bg6FUL,7470865156,Active,23017,R&D Engineer-Trainee,Dhruv Saxena,Software,Gurgaon,USER
+Himanshu Yadav,himanshu.yadav@logic-fruit.com,himanshu.yadav@logic-fruit.com,Gxp9a3,9629454445,Active,23018,R&D Engineer-Trainee,Dhruv Saxena,Software,Gurgaon,USER
+Korrapadu Ushaswi,korrapadu@logic-fruit.com,korrapadu@logic-fruit.com,tk5BDN,8639400188,Active,23019,R&D Engineer-Trainee,Muneet,FPGA,Gurgaon,USER
+Anadi Pandey,anadi.pandey@logic-fruit.com,anadi.pandey@logic-fruit.com,Ua3zg6,7054615655,Active,23020,R&D Engineer-Trainee,Bala Murali,FPGA,Bangalore,USER
+Anitha Muralasetti,anitha.muralasetti@logic-fruit.com,anitha.muralasetti@logic-fruit.com,P6bwNB,8639068840,Active,23021,R&D Engineer-Trainee,Bala Murali,FPGA,Bangalore,USER
+Rinku Jain,rinku.jain@logic-fruit.com,rinku.jain@logic-fruit.com,et5uLH,9560328520,Left,20018,Team Lead,Shashank Chaurasia,FPGA - Verification,Gurgaon,USER
+Karan Kumar,karan.kumar_1@logic-fruit.com,karan.kumar_1@logic-fruit.com,zm4rYJ,8448146805,Active,Intern,Graphic Design Intern,Jaswant Singh,Sales & Marketing,Gurgaon,USER
+Rehan Akhtar,rehan.akhtar@logic-fruit.com,rehan.akhtar@logic-fruit.com,nM7W3L,6306643015,Active,Intern,R&D Intern,Bhanu Pratap,FPGA,Gurgaon,USER
+Vibhor Nanda,vibhor.nanda@logic-fruit.com,vibhor.nanda@logic-fruit.com,SZpd59,8168152911,Active,Intern,R&D Intern,Dhruv Saxena,Software,Gurgaon,USER
+Ritik Tiwari,ritik.tiwari@logic-fruit.com,ritik.tiwari@logic-fruit.com,FeQT4U,6307907724,Active,Intern,R&D Intern,Rishabh Gupta,FPGA,Gurgaon,USER
+Prateek Singhal,prateek.singhal@logic-fruit.com,prateek.singhal@logic-fruit.com,Tq2dgV,8529530095,Active,Intern,R&D Intern,Arvind Dhakar,FPGA,Gurgaon,USER
+Ansaf Ahmad,ansaf.ahmad@logic-fruit.com,ansaf.ahmad@logic-fruit.com,NGLb9j,8017914647,Active,Intern,R&D Intern,Karan Kumar,FPGA,Gurgaon,USER
+Runal Palkar,runal.palkar@logic-fruit.com,runal.palkar@logic-fruit.com,CRcg7b,9137884831,Active,Intern,R&D Intern,Nishant Gaurav,FPGA,Gurgaon,USER
+Pratham Bhardwaj,pratham.bhardwaj@logic-fruit.com,pratham.bhardwaj@logic-fruit.com,n28LZH,9818937069,Active,Intern,R&D Intern,Dhruv Saxena,Software,Gurgaon,USER
+Ashish Osari,ashish.osari@logic-fruit.com,ashish.osari@logic-fruit.com,F5ApQ8,9174356796,Active,Intern,R&D Intern,Muneet,FPGA,Gurgaon,USER
+Yashasvi Saxena,yashasvi.saxena@logic-fruit.com,yashasvi.saxena@logic-fruit.com,WA9Qaj,9826948334,Active,Intern,R&D Intern,Dhruv Saxena,Software,Gurgaon,USER
+Mohd Sohail,mohd.sohail@logic-fruit.com,mohd.sohail@logic-fruit.com,m7rZeE,9540679463,Active,Intern,R&D Intern,Bhanu Pratap,FPGA,Gurgaon,USER
+Bonagiri Shreya,bonagiri.shreya@logic-fruit.com,bonagiri.shreya@logic-fruit.com,U7Fbjy,9493045483,Active,Intern,R&D Intern,Pratik Kumar,FPGA,Gurgaon,USER
+Pooja Sharma,pooja.sharma@logic-fruit.com,pooja.sharma@logic-fruit.com,fpnU8A,8890306731,Active,Intern,R&D Intern,Bhanu Pratap,FPGA,Gurgaon,USER
+Jatin Jindal,jatin.jindal@logic-fruit.com,jatin.jindal@logic-fruit.com,yQ9n8F,9873444054,Active,Consultant,Consultant,Vineet Goel,Finance,Gurgaon,USER
+Sanjay Pandey,sanjay.pandey@logic-fruit.com,sanjay.pandey@logic-fruit.com,w3kF4A,7798406849,Active,Consultant,Vice President,Sanjeev Kumar,Business Development,Bangalore,USER
+Vasuda,vasuda.bhatia@logic-fruit.com,vasuda.bhatia@logic-fruit.com,PZ4pvt,,Active,Consultant,Consultant,Sanjeev Kumar,Sales & Marketing,Gurgaon,USER
+Divya Jain,divya.jain@logic-fruit.com,divya.jain@logic-fruit.com,Sje2hA,8279232004,Active,Consultant,Consultant,Anil Nikhra,Software,Gurgaon,USER
+Priti Sharma,priti.sharma@logic-fruit.com,priti.sharma@logic-fruit.com,KpBE9b,9643791142,Active,Consultant,Consultant,Sanjeev Kumar,Human Resource,Gurgaon,USER
+Kushagra Singh,kushagra.singh@logic-fruit.com,kushagra.singh@logic-fruit.com,hja4NB,8077982843,Active,Consultant,Consultant,Anil Nikhra,Software,Gurgaon,USER
+Vamshee Krishna,vamshee.krishna@logic-fruit.com,vamshee.krishna@logic-fruit.com,fL9bNp,,Active,Consultant,Consultant,Shashank Chaurasia,FPGA,Bangalore,USER
+Rautu Siva Kumar,routu.siva@logic-fruit.com,routu.siva@logic-fruit.com,pwBv5y,,Active,Consultant,Consultant,Shashank Chaurasia,FPGA,Bangalore,USER
+Prathamesh Vidyadhar,prathamesh.vidyadhar@logic-fruit.com,prathamesh.vidyadhar@logic-fruit.com,MG8h7B,,Active,Consultant,Consultant,Deepak Goyal,FPGA,Bangalore,USER
+Mounika Narra,mounika.narra@logic-fruit.com,mounika.narra@logic-fruit.com,W5PbAm,7095120464,Active,Consultant,Consultant,Amritpreet Singh,Software,Gurgaon,USER
+Vivek Pratap,vivek.singh@logic-fruit.com,vivek.singh@logic-fruit.com,T4cKgN,9818004499,Active,Consultant,Consultant,Sanjeev Kumar,Software,Gurgaon,USER
+Manish Sharma,manish.sharma@logic-fruit.com,manish.sharma@logic-fruit.com,whH9rU,,Active,Consultant,Consultant,Sanjeev Kumar,Software,US,USER
+Damnish Vandana,damnish.lft@logic-fruit.com,damnish.lft@logic-fruit.com,sAG3TD,,Active,Consultant,Consultant,Anil Nikhra,Process Coordination,Gurgaon,USER
+Devansh Srivastava,devansh.srivastava@logic-fruit.com,devansh.srivastava@logic-fruit.com,v25LgN,,Active,Consultant,Consultant,Puneet Sinha,FPGA - Verification,Gurgaon,USER
+DK Mittal,dk.mittal@logic-fruit.com,dk.mittal@logic-fruit.com,Hb2B5h,,Active,Consultant,Consultant,Vijay Pal Sharma,Sales & Marketing,Gurgaon,USER
+Puneet Sinha,puneet.sinha@logic-fruit.com,puneet.sinha@logic-fruit.com,VgTL97,,Active,Consultant,Consultant,Sanjeev Kumar,R&D,US,USER
+Ankit Kumar Thakur,drankitkumarthakur@gmail.com,drankitkumarthakur@gmail.com,Ankit@2580,7011711442,Active,Consultant,Consultant,Sachin Sharma,IT Support,Gurgaon,ADMINISTRATOR

@@ -1,0 +1,10 @@
+Asset Type,Financed By,Procured Under,Location,System,Asset Code,Service Tag No.,Make,Model,CPU,CPU Generation,CPU Version,CPU Speed,RAM,Hard Disk,Hard Disk Type,Issued To
+LFT Owned Old Assets,LFT Owned,LFT Owned,Bangalore,Desktop,LFTBD-001,CL1W7Q2,Dell,Dell OptiPlex 7050,Core i7,7th Gen,7700,3.60GHz,16GB,1TB,HDD,Stock
+LFT Owned Old Assets,LFT Owned,LFT Owned,Gurgaon,Desktop,LFTBD-002,HJR82S2,Dell,Dell OptiPlex 7060,Core i7,8th Gen,8700,3.20GHz,16GB,1TB,HDD,Stock
+LFT Owned Old Assets,LFT Owned,LFT Owned,Bangalore,Laptop,LFTBD-003,PC17M7RH,Lenovo,Lenovo ThinkCentre M720S,Core i7,8th Gen,8700,3.20GHz,16GB,1TB,HDD,Stock
+Lease New Assets,HP Lease,SCH#2,Bangalore,Desktop,LFTBD-004,GKM3BD3,Dell,Dell OptiPlex 7080,Core i7,10th Gen,10700,2.90GHz,16GB,1TB NVMe / 1TB HDD,HDD/SSD,Stock
+Lease New Assets,HP Lease,SCH#1,Bangalore,Desktop,LFTBD-005,5B4F9R2,Dell,Dell OptiPlex 5060,Core i5,8th Gen,8500,3.00GHz,8GB,1TB,HDD,Stock
+Lease New Assets,HP Lease,SCH#5,Bangalore,Desktop,LFTBD-006,J4CP6C2,Dell,Dell OptiPlex 5050,Core i5,6th Gen,6500,3.20GHz,8GB,1TB,HDD,Stock
+LFT Owned Old Assets,LFT Owned,LFT Owned,Gurgaon,Laptop,LFTBD-007,J4CM6C2,Dell,Dell OptiPlex 5050,Core i5,6th Gen,6500,3.20GHz,16GB,1TB,HDD,Stock
+LFT Owned New Assets,LFT Owned,LFT Owned,Gurgaon,Desktop,LFTBD-008,HVC22S2,Dell,Dell OptiPlex 7060,Core i7,8th Gen,8700,3.20GHz,32GB,500GB,SDD,Stock
+LFT Owned New Assets,LFT Owned,LFT Owned,Gurgaon,Desktop,LFTBD-009,Assembled PC,Assembled,Zebronics,Core i3,1st Gen,540,3.60GHz,8GB,320GB,HDD,Stock

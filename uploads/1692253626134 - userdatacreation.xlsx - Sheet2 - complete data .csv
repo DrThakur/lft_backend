@@ -1,0 +1,5 @@
+First Name,Last Name,Username,Email,Password,Phone Number,Status,Employee Code,Designation,Reporting Manager,Department,Location,Notes,Role
+Abhishek Kumar,Thakur,cpabhishek,cpabhishek0@gmail.com,Abhishek@12345,9015447015,Active,LFTEM-2001,Financial Analyst,Sachin Sharma,Finance,Gurgaon,New Joinee,STAFF
+Nikita,Kumari,designerNikita,designerNikita@gmail.com,Nikita@12345,1234567891,Active,LFTEM-2002,Ux Designer,Sachin Sharma,Design,Gurgaon,Old Employee,STAFF
+Rinku,Jain,jainRinku,rinkujain6593@gmail.com,Rinku@12345,7011727690,Active,LFTEM-2003,Verification Engineer,Ankit Kumar Thakur,Development,Bangalore,New Joinee,SUPER ADMIN
+Hari Mohan,Jha,vicky,vickyjharocks@gmail.com,Hari@12345,8010456787,Active,LFTEM-2004,Sales Manager,Ankit Kumar Thakur,Sales,Bangalore,Old Employee,ADMIN
