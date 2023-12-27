@@ -32,7 +32,8 @@ const { Server } = require("socket.io");
 const Ticket = require("./models/ticket");
 
 const app = express();
-const PORT = 8002;
+const PORT = process.env.PORT || 8002;
+
 
 // Configure CORS to allow requests from your React frontend's origin
 // const corsOptions = {
